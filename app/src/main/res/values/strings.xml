@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallerie</string>
+
+    <string name="desc_img_1">Un tas de feuille</string>
+    <string name="desc_img_2">Un graffiti</string>
+    <string name="desc_img_3">De l\'abstrait</string>
+</resources>
